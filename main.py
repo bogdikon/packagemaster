@@ -1,4 +1,4 @@
-# Govnocode by Bogdikon with <3
+# code by Bogdikon with <3
 #
 #   Purpose: Main executable
 #
